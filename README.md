@@ -262,5 +262,4 @@ The integration of SQL queries with Python for data transformation and visualiza
 This project serves as a solid foundation for anyone interested in learning about data preprocessing, database integration, and SQL query optimization for business analytics.
 
 
-
 ---
