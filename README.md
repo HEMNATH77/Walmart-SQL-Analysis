@@ -56,7 +56,11 @@ The following preprocessing steps are performed on the dataset:
 3. **Data Type Conversion**: The `unit_price` column is cleaned by removing the `$` sign and converting it to a float data type.
 4. **Total Sales Calculation**: A new column `total` is added, which calculates the total sales amount by multiplying `unit_price` by `quantity`.
 
-After cleaning, the dataset is saved as `Walmart_clean_data.csv`.
+After cleaning, the dataset is saved as
+
+```
+ `Walmart_clean_data.csv`.
+```
 
 ## Database Integration
 The cleaned data is then inserted into a MySQL database for further analysis. The following steps are performed:
