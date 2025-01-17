@@ -254,7 +254,8 @@ df.to_sql(name='walmart', con=engine_mysql, if_exists='append', index=False)
     **Explanation**: This query compares the total revenue of each branch from the current year with the previous year's revenue. It helps identify branches that have experienced a decrease in revenue, which could indicate potential areas of concern or a need for further analysis.
 
 ## Conclusion
-This project demonstrates how data cleaning, transformation, and analysis can be integrated to derive valuable insights from large sales datasets. By using SQL queries, we've successfully identified trends and metrics such as payment method preferences, top-rated categories, transaction volumes, and profit margins across Walmart branches. This type of analysis can be leveraged by businesses to make data-driven decisions, optimize operations, and improve customer experiences.
+
+ It demonstrates how data cleaning, transformation, and analysis can be integrated to derive valuable insights from large sales datasets. By using SQL queries, we've successfully identified trends and metrics such as payment method preferences, top-rated categories, transaction volumes, and profit margins across Walmart branches. This type of analysis can be leveraged by businesses to make data-driven decisions, optimize operations, and improve customer experiences.
 
 The integration of SQL queries with Python for data transformation and visualization in MySQL is essential for handling large datasets and ensuring efficient querying. The combination of these tools, along with the insights derived, can provide substantial support in business decision-making, especially for retail and sales-based organizations.
 
