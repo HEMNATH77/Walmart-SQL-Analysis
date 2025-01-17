@@ -1,7 +1,4 @@
 # Walmart SQL Analysis
-Here is the combined version of the GitHub README file, including the conclusion:
-
----
 
 # Walmart Sales Data Analysis and SQL Queries
 
@@ -263,7 +260,6 @@ The integration of SQL queries with Python for data transformation and visualiza
 
 This project serves as a solid foundation for anyone interested in learning about data preprocessing, database integration, and SQL query optimization for business analytics.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ---
