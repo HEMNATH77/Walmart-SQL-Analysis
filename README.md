@@ -14,7 +14,7 @@ This project involves analyzing Walmart's sales dataset and performing various d
   - [General Overview Queries](#general-overview-queries)
   - [Aggregated Insights](#aggregated-insights)
 - [Conclusion](#conclusion)
-- [License](#license)
+
 
 ## Project Overview
 The goal of this project is to clean and preprocess Walmart's sales data, which is available in CSV format. The data includes various fields such as `invoice_id`, `Branch`, `City`, `category`, `unit_price`, `quantity`, `payment_method`, and others. After cleaning and transforming the data, it is stored into a MySQL database for easy querying and analysis.
