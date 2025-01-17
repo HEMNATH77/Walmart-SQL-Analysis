@@ -1,1 +1,1 @@
-# Walmart-SQL-Analysis
+# Walmart SQL Analysis
