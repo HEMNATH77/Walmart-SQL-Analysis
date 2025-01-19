@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis and SQL Queries
+in# Walmart Sales Data Analysis and SQL Queries
 
 ## Project Overview 
 
@@ -203,6 +203,7 @@ df.to_sql(name='walmart', con=engine_mysql, if_exists='append', index=False)
     ORDER BY City, category;
     ```
     **Explanation**: This query calculates the average, minimum, and maximum ratings for each product category in each city. It provides insights into how products are rated in different cities.
+
 
 - **Find the total profit for each category ranked from highest to lowest**:
     ```sql
