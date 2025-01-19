@@ -1,4 +1,4 @@
-in# Walmart Sales Data Analysis and SQL Queries
+# Walmart Sales Data Analysis and SQL Queries
 
 ## Project Overview 
 
