@@ -80,6 +80,7 @@ df.to_sql(name='walmart', con=engine_mysql, if_exists='append', index=False)
 
 ## SQL Queries
 
+
 ### General Overview Queries
 
 - **Show all records from the `walmart` table**:
