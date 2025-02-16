@@ -4,6 +4,7 @@
 
 This project involves analyzing Walmart's sales dataset and performing various data preprocessing steps, including cleaning, transformation, and storage into a MySQL database. The dataset consists of sales records from Walmart stores, and the analysis focuses on cleaning the data, calculating total sales, and preparing it for further analysis.
 
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Prerequisites](#prerequisites)
